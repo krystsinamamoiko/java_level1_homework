@@ -38,10 +38,7 @@ public class HomeWorkApp {
     private static void compareNumbers() {
         int a = 70;
         int b = 19;
-        if (a >= b) {
-            System.out.println("a >= b");
-        } else {
-            System.out.println("a < b");
-        }
+        String message = a >= b ? "a >= b" : "a < b";
+        System.out.println(message);
     }
 }
