@@ -1,4 +1,4 @@
-public class HomeWorkApp {
+public class HomeWorkAppLesson01 {
 
     public static void main(String[] args) {
         printThreeWords();
