@@ -1,4 +1,4 @@
-public class HomeWorkAppLesson2 {
+public class HomeWorkAppLesson02 {
 
     public static void main(String[] args) {
         // print 'true' if sum of the given two int numbers is
