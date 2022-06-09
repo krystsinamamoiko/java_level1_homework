@@ -1,4 +1,4 @@
-public class HomeWorkAppLesson3 {
+public class HomeWorkAppLesson03 {
 
     public static void main(String[] args) {
         /* Task 1: Задать целочисленный массив, состоящий из элементов 0 и 1
